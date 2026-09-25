@@ -1,0 +1,344 @@
+Info: Traitement du symbole "C1:Capacitor_SMD:C_0805_2012Metric".
+Info: Traitement du symbole "R3:Resistor_SMD:R_0805_2012Metric".
+Info: Traitement du symbole "R1:Resistor_SMD:R_0805_2012Metric".
+Info: Traitement du symbole "R4:Resistor_SMD:R_0805_2012Metric".
+Info: Traitement du symbole "C2:Capacitor_SMD:C_0603_1608Metric".
+Info: Traitement du symbole "J1:Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical".
+Info: Traitement du symbole "D1:LED_SMD:LED_0805_2012Metric".
+Info: Traitement du symbole "R2:Resistor_SMD:R_0603_1608Metric".
+Info: Traitement du symbole "J2:Connector_USB:USB_Micro-AB_Molex_47590-0001".
+Info: Traitement du symbole "C3:Capacitor_SMD:C_0805_2012Metric".
+Info: Traitement du symbole "SW1:Button_Switch_SMD:SW_Push_1P1T_NO_CK_KSC6xxG".
+Info: Traitement du symbole "TP1:TestPoint:TestPoint_Pad_D2.0mm".
+Info: Traitement du symbole "U1:Package_QFP:LQFP-64_10x10mm_P0.5mm".
+Info: Traitement du symbole "U2:Package_TO_SOT_SMD:SOT-23-6_Handsoldering".
+Mise à jour C1 association de symbole de  à /f7addc0a-aa03-4073-947c-a0682a855f0d.
+Mise a Jour des Champs de C1.
+Mis à jour C1 nom de feuille en /.
+Mis à jour C1 fichier de feuille en Projet_PCBPolytech_git.kicad_sch.
+Filtres d'empreinte C1 mis à jour en 'C_*'.
+Ajout net unconnected-(C1-Pad2).
+Connecter C1 pin 2 à unconnected-(C1-Pad2).
+Ajout net unconnected-(C1-Pad1).
+Connecter C1 pin 1 à unconnected-(C1-Pad1).
+Métadonnées de l'unité C1 mises à jour.
+Ajouté C2 (empreinte 'Capacitor_SMD:C_0603_1608Metric').
+Change la référence schématique de REF** en C2.
+Modifie valeur C2 de C_0603_1608Metric en C.
+Mise à jour C2 association de symbole de  à /5c6e1fc9-64bc-47f2-b7e3-fb47c0a62fda.
+Mise a Jour des Champs de C2.
+Mis à jour C2 nom de feuille en /.
+Mis à jour C2 fichier de feuille en Projet_PCBPolytech_git.kicad_sch.
+Filtres d'empreinte C2 mis à jour en 'C_*'.
+Ajout net unconnected-(C2-Pad1).
+Connecter C2 pin 1 à unconnected-(C2-Pad1).
+Ajout net unconnected-(C2-Pad2).
+Connecter C2 pin 2 à unconnected-(C2-Pad2).
+Métadonnées de l'unité C2 mises à jour.
+Ajouté C3 (empreinte 'Capacitor_SMD:C_0805_2012Metric').
+Change la référence schématique de REF** en C3.
+Modifie valeur C3 de C_0805_2012Metric en C.
+Mise à jour C3 association de symbole de  à /0c9d87ff-4a3f-4686-b06a-92162bd33714.
+Mise a Jour des Champs de C3.
+Mis à jour C3 nom de feuille en /.
+Mis à jour C3 fichier de feuille en Projet_PCBPolytech_git.kicad_sch.
+Filtres d'empreinte C3 mis à jour en 'C_*'.
+Ajout net /RESET_STM_N.
+Connecter C3 pin 1 à /RESET_STM_N.
+Ajout net GND.
+Connecter C3 pin 2 à GND.
+Métadonnées de l'unité C3 mises à jour.
+Ajouté D1 (empreinte 'LED_SMD:LED_0805_2012Metric').
+Change la référence schématique de REF** en D1.
+Modifie valeur D1 de LED_0805_2012Metric en LED GREEN.
+Mise à jour D1 association de symbole de  à /97b105b4-2e64-4079-89a1-596f2c56c7bc.
+Mise a Jour des Champs de D1.
+Mis à jour D1 nom de feuille en /.
+Mis à jour D1 fichier de feuille en Projet_PCBPolytech_git.kicad_sch.
+Filtres d'empreinte D1 mis à jour en 'LED* LED_SMD:* LED_THT:*'.
+Ajout net unconnected-(D1-K-Pad1).
+Connecter D1 pin 1 à unconnected-(D1-K-Pad1).
+Ajout net unconnected-(D1-A-Pad2).
+Connecter D1 pin 2 à unconnected-(D1-A-Pad2).
+Métadonnées de l'unité D1 mises à jour.
+Ajouté J1 (empreinte 'Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical').
+Change la référence schématique de REF** en J1.
+Modifie valeur J1 de PinHeader_1x05_P2.54mm_Vertical en Conn_01x05_Socket.
+Mise à jour J1 association de symbole de  à /dea4c422-e611-442f-a0db-947dc3c228d8.
+Mise a Jour des Champs de J1.
+Mis à jour J1 nom de feuille en /.
+Mis à jour J1 fichier de feuille en Projet_PCBPolytech_git.kicad_sch.
+Filtres d'empreinte J1 mis à jour en 'Connector*:*_1x??_*'.
+Ajout net unconnected-(J1-Pin_3-Pad3).
+Connecter J1 pin 3 à unconnected-(J1-Pin_3-Pad3).
+Ajout net unconnected-(J1-Pin_4-Pad4).
+Connecter J1 pin 4 à unconnected-(J1-Pin_4-Pad4).
+Ajout net unconnected-(J1-Pin_2-Pad2).
+Connecter J1 pin 2 à unconnected-(J1-Pin_2-Pad2).
+Ajout net unconnected-(J1-Pin_5-Pad5).
+Connecter J1 pin 5 à unconnected-(J1-Pin_5-Pad5).
+Ajout net unconnected-(J1-Pin_1-Pad1).
+Connecter J1 pin 1 à unconnected-(J1-Pin_1-Pad1).
+Métadonnées de l'unité J1 mises à jour.
+Ajouté J2 (empreinte 'Connector_USB:USB_Micro-AB_Molex_47590-0001').
+Change la référence schématique de REF** en J2.
+Modifie valeur J2 de USB_Micro-AB_Molex_47590-0001 en USB_B_Micro.
+Mise à jour J2 association de symbole de  à /708dba38-6f41-4d07-afce-34d9696c468d.
+Mise a Jour des Champs de J2.
+Mis à jour J2 nom de feuille en /.
+Mis à jour J2 fichier de feuille en Projet_PCBPolytech_git.kicad_sch.
+Filtres d'empreinte J2 mis à jour en 'USB*Micro*B*'.
+Ajout net unconnected-(J2-Shield-PadSH).
+Connecter J2 pin SH à unconnected-(J2-Shield-PadSH).
+Ajout net /USB_D-.
+Connecter J2 pin 2 à /USB_D-.
+Ajout net unconnected-(J2-GND-Pad5).
+Connecter J2 pin 5 à unconnected-(J2-GND-Pad5).
+Connecter J2 pin SH à unconnected-(J2-Shield-PadSH).
+Connecter J2 pin SH à unconnected-(J2-Shield-PadSH).
+Connecter J2 pin SH à unconnected-(J2-Shield-PadSH).
+Connecter J2 pin SH à unconnected-(J2-Shield-PadSH).
+Connecter J2 pin SH à unconnected-(J2-Shield-PadSH).
+Ajout net unconnected-(J2-ID-Pad4).
+Connecter J2 pin 4 à unconnected-(J2-ID-Pad4).
+Connecter J2 pin SH à unconnected-(J2-Shield-PadSH).
+Ajout net /USB_D+.
+Connecter J2 pin 3 à /USB_D+.
+Ajout net +5V.
+Connecter J2 pin 1 à +5V.
+Métadonnées de l'unité J2 mises à jour.
+Ajouté R1 (empreinte 'Resistor_SMD:R_0805_2012Metric').
+Change la référence schématique de REF** en R1.
+Modifie valeur R1 de R_0805_2012Metric en R.
+Mise à jour R1 association de symbole de  à /98e297e7-e203-458f-8652-7bc860fe73c4.
+Mise a Jour des Champs de R1.
+Mis à jour R1 nom de feuille en /.
+Mis à jour R1 fichier de feuille en Projet_PCBPolytech_git.kicad_sch.
+Filtres d'empreinte R1 mis à jour en 'R_*'.
+Ajout net unconnected-(R1-Pad2).
+Connecter R1 pin 2 à unconnected-(R1-Pad2).
+Ajout net unconnected-(R1-Pad1).
+Connecter R1 pin 1 à unconnected-(R1-Pad1).
+Métadonnées de l'unité R1 mises à jour.
+Ajouté R2 (empreinte 'Resistor_SMD:R_0603_1608Metric').
+Change la référence schématique de REF** en R2.
+Modifie valeur R2 de R_0603_1608Metric en R.
+Mise à jour R2 association de symbole de  à /e5ff338c-2303-4ad1-8d4f-772ed5352840.
+Mise a Jour des Champs de R2.
+Mis à jour R2 nom de feuille en /.
+Mis à jour R2 fichier de feuille en Projet_PCBPolytech_git.kicad_sch.
+Filtres d'empreinte R2 mis à jour en 'R_*'.
+Ajout net unconnected-(R2-Pad1).
+Connecter R2 pin 1 à unconnected-(R2-Pad1).
+Ajout net unconnected-(R2-Pad2).
+Connecter R2 pin 2 à unconnected-(R2-Pad2).
+Métadonnées de l'unité R2 mises à jour.
+Ajouté R3 (empreinte 'Resistor_SMD:R_0805_2012Metric').
+Change la référence schématique de REF** en R3.
+Modifie valeur R3 de R_0805_2012Metric en R.
+Mise à jour R3 association de symbole de  à /55649857-b2b9-41cf-8aa5-e1c589682700.
+Mise a Jour des Champs de R3.
+Mis à jour R3 nom de feuille en /.
+Mis à jour R3 fichier de feuille en Projet_PCBPolytech_git.kicad_sch.
+Filtres d'empreinte R3 mis à jour en 'R_*'.
+Connecter R3 pin 2 à /RESET_STM_N.
+Ajout net Net-(R3-Pad1).
+Connecter R3 pin 1 à Net-(R3-Pad1).
+Métadonnées de l'unité R3 mises à jour.
+Ajouté R4 (empreinte 'Resistor_SMD:R_0805_2012Metric').
+Change la référence schématique de REF** en R4.
+Modifie valeur R4 de R_0805_2012Metric en R.
+Mise à jour R4 association de symbole de  à /2ef117c0-ceba-45d0-9764-68bda36dccdc.
+Mise a Jour des Champs de R4.
+Mis à jour R4 nom de feuille en /.
+Mis à jour R4 fichier de feuille en Projet_PCBPolytech_git.kicad_sch.
+Filtres d'empreinte R4 mis à jour en 'R_*'.
+Ajout net +3.3V.
+Connecter R4 pin 1 à +3.3V.
+Connecter R4 pin 2 à /RESET_STM_N.
+Métadonnées de l'unité R4 mises à jour.
+Ajouté SW1 (empreinte 'Button_Switch_SMD:SW_Push_1P1T_NO_CK_KSC6xxG').
+Change la référence schématique de REF** en SW1.
+Modifie valeur SW1 de SW_Push_1P1T_NO_CK_KSC6xxG en SW_Push.
+Mise à jour SW1 association de symbole de  à /0200f73b-e55f-41ae-9838-018ef89dc111.
+Mise a Jour des Champs de SW1.
+Mis à jour SW1 nom de feuille en /.
+Mis à jour SW1 fichier de feuille en Projet_PCBPolytech_git.kicad_sch.
+Connecter SW1 pin 1 à GND.
+Connecter SW1 pin 2 à Net-(R3-Pad1).
+Connecter SW1 pin 1 à GND.
+Connecter SW1 pin 2 à Net-(R3-Pad1).
+Métadonnées de l'unité SW1 mises à jour.
+Ajouté C1 (empreinte 'Capacitor_SMD:C_0805_2012Metric').
+Ajouté TP1 (empreinte 'TestPoint:TestPoint_Pad_D2.0mm').
+Change la référence schématique de REF** en TP1.
+Modifie valeur TP1 de TestPoint_Pad_D2.0mm en TestPoint.
+Mise à jour TP1 association de symbole de  à /c98f2c51-070e-4b47-b1a2-bd21bf0647ad.
+Mise a Jour des Champs de TP1.
+Mis à jour TP1 nom de feuille en /.
+Mis à jour TP1 fichier de feuille en Projet_PCBPolytech_git.kicad_sch.
+Filtres d'empreinte TP1 mis à jour en 'Pin* Test*'.
+Suppression attribut de fabrication "exclure de BOM"  pour TP1.
+Suppression TP1 attribut de fabrication 'exclure des fichiers de position'.
+Ajout net unconnected-(TP1-Pad1).
+Connecter TP1 pin 1 à unconnected-(TP1-Pad1).
+Métadonnées de l'unité TP1 mises à jour.
+Change la référence schématique de REF** en C1.
+Ajouté U1 (empreinte 'Package_QFP:LQFP-64_10x10mm_P0.5mm').
+Change la référence schématique de REF** en U1.
+Modifie valeur U1 de LQFP-64_10x10mm_P0.5mm en STM32F446RETx.
+Mise à jour U1 association de symbole de  à /8f9b3a43-f9a3-4e35-ae43-06b161e242c5.
+Mise a Jour des Champs de U1.
+Mis à jour U1 nom de feuille en /.
+Mis à jour U1 fichier de feuille en Projet_PCBPolytech_git.kicad_sch.
+Filtres d'empreinte U1 mis à jour en 'LQFP*10x10mm*P0.5mm*'.
+Ajout net unconnected-(U1-PA2-Pad16).
+Connecter U1 pin 16 à unconnected-(U1-PA2-Pad16).
+Ajout net Net-(U1-VSS-Pad18).
+Connecter U1 pin 31 à Net-(U1-VSS-Pad18).
+Connecter U1 pin 63 à Net-(U1-VSS-Pad18).
+Ajout net unconnected-(U1-PC13-Pad2).
+Connecter U1 pin 2 à unconnected-(U1-PC13-Pad2).
+Ajout net unconnected-(U1-PA13-Pad46).
+Connecter U1 pin 46 à unconnected-(U1-PA13-Pad46).
+Ajout net unconnected-(U1-VDD-Pad48).
+Connecter U1 pin 48 à unconnected-(U1-VDD-Pad48).
+Ajout net unconnected-(U1-PA7-Pad23).
+Connecter U1 pin 23 à unconnected-(U1-PA7-Pad23).
+Ajout net unconnected-(U1-PB12-Pad33).
+Connecter U1 pin 33 à unconnected-(U1-PB12-Pad33).
+Ajout net unconnected-(U1-PC1-Pad9).
+Connecter U1 pin 9 à unconnected-(U1-PC1-Pad9).
+Connecter U1 pin 18 à Net-(U1-VSS-Pad18).
+Ajout net unconnected-(U1-PA11-Pad44).
+Connecter U1 pin 44 à unconnected-(U1-PA11-Pad44).
+Ajout net unconnected-(U1-PB6-Pad58).
+Connecter U1 pin 58 à unconnected-(U1-PB6-Pad58).
+Ajout net unconnected-(U1-PC9-Pad40).
+Connecter U1 pin 40 à unconnected-(U1-PC9-Pad40).
+Ajout net unconnected-(U1-PA9-Pad42).
+Connecter U1 pin 42 à unconnected-(U1-PA9-Pad42).
+Ajout net unconnected-(U1-PA14-Pad49).
+Connecter U1 pin 49 à unconnected-(U1-PA14-Pad49).
+Ajout net unconnected-(U1-VCAP_1-Pad30).
+Connecter U1 pin 30 à unconnected-(U1-VCAP_1-Pad30).
+Ajout net unconnected-(U1-VSSA-Pad12).
+Connecter U1 pin 12 à unconnected-(U1-VSSA-Pad12).
+Ajout net unconnected-(U1-PB0-Pad26).
+Connecter U1 pin 26 à unconnected-(U1-PB0-Pad26).
+Ajout net unconnected-(U1-PC14-Pad3).
+Connecter U1 pin 3 à unconnected-(U1-PC14-Pad3).
+Ajout net unconnected-(U1-PH1-Pad6).
+Connecter U1 pin 6 à unconnected-(U1-PH1-Pad6).
+Ajout net unconnected-(U1-PA15-Pad50).
+Connecter U1 pin 50 à unconnected-(U1-PA15-Pad50).
+Ajout net unconnected-(U1-PC4-Pad24).
+Connecter U1 pin 24 à unconnected-(U1-PC4-Pad24).
+Ajout net unconnected-(U1-PC6-Pad37).
+Connecter U1 pin 37 à unconnected-(U1-PC6-Pad37).
+Ajout net unconnected-(U1-PA12-Pad45).
+Connecter U1 pin 45 à unconnected-(U1-PA12-Pad45).
+Ajout net unconnected-(U1-PB7-Pad59).
+Connecter U1 pin 59 à unconnected-(U1-PB7-Pad59).
+Ajout net unconnected-(U1-PA8-Pad41).
+Connecter U1 pin 41 à unconnected-(U1-PA8-Pad41).
+Ajout net unconnected-(U1-PB15-Pad36).
+Connecter U1 pin 36 à unconnected-(U1-PB15-Pad36).
+Ajout net unconnected-(U1-VBAT-Pad1).
+Connecter U1 pin 1 à unconnected-(U1-VBAT-Pad1).
+Ajout net unconnected-(U1-PA3-Pad17).
+Connecter U1 pin 17 à unconnected-(U1-PA3-Pad17).
+Ajout net unconnected-(U1-PA1-Pad15).
+Connecter U1 pin 15 à unconnected-(U1-PA1-Pad15).
+Ajout net unconnected-(U1-VDD-Pad64).
+Connecter U1 pin 64 à unconnected-(U1-VDD-Pad64).
+Ajout net unconnected-(U1-PC0-Pad8).
+Connecter U1 pin 8 à unconnected-(U1-PC0-Pad8).
+Ajout net unconnected-(U1-VDDA-Pad13).
+Connecter U1 pin 13 à unconnected-(U1-VDDA-Pad13).
+Ajout net unconnected-(U1-PC5-Pad25).
+Connecter U1 pin 25 à unconnected-(U1-PC5-Pad25).
+Ajout net unconnected-(U1-PA6-Pad22).
+Connecter U1 pin 22 à unconnected-(U1-PA6-Pad22).
+Connecter U1 pin 47 à Net-(U1-VSS-Pad18).
+Ajout net unconnected-(U1-VDD-Pad32).
+Connecter U1 pin 32 à unconnected-(U1-VDD-Pad32).
+Ajout net unconnected-(U1-PB1-Pad27).
+Connecter U1 pin 27 à unconnected-(U1-PB1-Pad27).
+Ajout net unconnected-(U1-PC10-Pad51).
+Connecter U1 pin 51 à unconnected-(U1-PC10-Pad51).
+Ajout net unconnected-(U1-BOOT0-Pad60).
+Connecter U1 pin 60 à unconnected-(U1-BOOT0-Pad60).
+Ajout net unconnected-(U1-PB14-Pad35).
+Connecter U1 pin 35 à unconnected-(U1-PB14-Pad35).
+Ajout net unconnected-(U1-PC12-Pad53).
+Connecter U1 pin 53 à unconnected-(U1-PC12-Pad53).
+Ajout net unconnected-(U1-PC15-Pad4).
+Connecter U1 pin 4 à unconnected-(U1-PC15-Pad4).
+Ajout net unconnected-(U1-PB13-Pad34).
+Connecter U1 pin 34 à unconnected-(U1-PB13-Pad34).
+Ajout net unconnected-(U1-PA10-Pad43).
+Connecter U1 pin 43 à unconnected-(U1-PA10-Pad43).
+Ajout net unconnected-(U1-PB3-Pad55).
+Connecter U1 pin 55 à unconnected-(U1-PB3-Pad55).
+Ajout net unconnected-(U1-PC11-Pad52).
+Connecter U1 pin 52 à unconnected-(U1-PC11-Pad52).
+Ajout net unconnected-(U1-VDD-Pad19).
+Connecter U1 pin 19 à unconnected-(U1-VDD-Pad19).
+Ajout net unconnected-(U1-PC8-Pad39).
+Connecter U1 pin 39 à unconnected-(U1-PC8-Pad39).
+Ajout net unconnected-(U1-PA5-Pad21).
+Connecter U1 pin 21 à unconnected-(U1-PA5-Pad21).
+Ajout net unconnected-(U1-PB9-Pad62).
+Connecter U1 pin 62 à unconnected-(U1-PB9-Pad62).
+Ajout net unconnected-(U1-PC3-Pad11).
+Connecter U1 pin 11 à unconnected-(U1-PC3-Pad11).
+Ajout net unconnected-(U1-PH0-Pad5).
+Connecter U1 pin 5 à unconnected-(U1-PH0-Pad5).
+Ajout net unconnected-(U1-PA0-Pad14).
+Connecter U1 pin 14 à unconnected-(U1-PA0-Pad14).
+Ajout net unconnected-(U1-PD2-Pad54).
+Connecter U1 pin 54 à unconnected-(U1-PD2-Pad54).
+Ajout net unconnected-(U1-PC2-Pad10).
+Connecter U1 pin 10 à unconnected-(U1-PC2-Pad10).
+Connecter U1 pin 7 à /RESET_STM_N.
+Ajout net unconnected-(U1-PC7-Pad38).
+Connecter U1 pin 38 à unconnected-(U1-PC7-Pad38).
+Ajout net unconnected-(U1-PB8-Pad61).
+Connecter U1 pin 61 à unconnected-(U1-PB8-Pad61).
+Ajout net unconnected-(U1-PB10-Pad29).
+Connecter U1 pin 29 à unconnected-(U1-PB10-Pad29).
+Ajout net unconnected-(U1-PA4-Pad20).
+Connecter U1 pin 20 à unconnected-(U1-PA4-Pad20).
+Ajout net unconnected-(U1-PB2-Pad28).
+Connecter U1 pin 28 à unconnected-(U1-PB2-Pad28).
+Ajout net unconnected-(U1-PB5-Pad57).
+Connecter U1 pin 57 à unconnected-(U1-PB5-Pad57).
+Ajout net unconnected-(U1-PB4-Pad56).
+Connecter U1 pin 56 à unconnected-(U1-PB4-Pad56).
+Métadonnées de l'unité U1 mises à jour.
+Modifie valeur C1 de C_0805_2012Metric en C.
+Ajouté U2 (empreinte 'Package_TO_SOT_SMD:SOT-23-6_Handsoldering').
+Change la référence schématique de REF** en U2.
+Modifie valeur U2 de SOT-23-6_Handsoldering en USBLC6-2SC6.
+Mise à jour U2 association de symbole de  à /660a4b5c-33fd-41e5-b2fb-4b4346e93517.
+Mise a Jour des Champs de U2.
+Mis à jour U2 nom de feuille en /.
+Mis à jour U2 fichier de feuille en Projet_PCBPolytech_git.kicad_sch.
+Filtres d'empreinte U2 mis à jour en 'SOT?23*'.
+Ajout net unconnected-(U2-I/O1-Pad1).
+Connecter U2 pin 1 à unconnected-(U2-I/O1-Pad1).
+Ajout net unconnected-(U2-I/O1-Pad6).
+Connecter U2 pin 6 à unconnected-(U2-I/O1-Pad6).
+Ajout net unconnected-(U2-VBUS-Pad5).
+Connecter U2 pin 5 à unconnected-(U2-VBUS-Pad5).
+Ajout net unconnected-(U2-I/O2-Pad4).
+Connecter U2 pin 4 à unconnected-(U2-I/O2-Pad4).
+Ajout net unconnected-(U2-I/O2-Pad3).
+Connecter U2 pin 3 à unconnected-(U2-I/O2-Pad3).
+Ajout net unconnected-(U2-GND-Pad2).
+Connecter U2 pin 2 à unconnected-(U2-GND-Pad2).
+Métadonnées de l'unité U2 mises à jour.
+
+
+Info: Total warnings: 0, erreurs: 0.
